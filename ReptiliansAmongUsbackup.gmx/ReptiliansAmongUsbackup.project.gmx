@@ -251,6 +251,7 @@
       <object>objects\obj_sp_michaelalink2</object>
       <object>objects\obj_sp_jclink</object>
       <object>objects\obj_sp_jclink2</object>
+      <object>objects\obj_sp_Prezlink</object>
     </objects>
     <object>objects\obj_HUD</object>
     <object>objects\obj_HUDhalf</object>
