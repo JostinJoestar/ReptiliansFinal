@@ -114,7 +114,15 @@
           <argument>
             <kind>1</kind>
             <string>global.day += 1;
-room_goto(USMap)
+
+if(room=Battle4)
+{
+    room_goto(prez)
+}
+else
+{
+    room_goto(USMap)
+}
 </string>
           </argument>
         </arguments>
