@@ -117,7 +117,7 @@
 
 if(room=Battle4)
 {
-    room_goto(prez)
+    room_goto(Prez)
 }
 else
 {

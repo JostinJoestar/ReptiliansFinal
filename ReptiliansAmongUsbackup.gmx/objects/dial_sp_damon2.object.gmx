@@ -203,7 +203,7 @@ if (mouse_check_button_pressed(mb_left))
 }
 
 
-if (talk &gt; 5)
+if (talk &gt; 28)
 {
     instance_destroy()
 }
