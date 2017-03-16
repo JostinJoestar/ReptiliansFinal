@@ -119,6 +119,8 @@
     <sprite>sprites\spr_HUD</sprite>
     <sprite>sprites\spr_HUDhalf</sprite>
     <sprite>sprites\spr_hospbutton</sprite>
+    <sprite>sprites\spr_prez_boom1</sprite>
+    <sprite>sprites\spr_prez_boom2</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\US</background>
