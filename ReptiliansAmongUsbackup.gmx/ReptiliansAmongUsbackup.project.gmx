@@ -229,6 +229,7 @@
       <object>objects\dial_sp_michaela2</object>
       <object>objects\dial_sp_jc</object>
       <object>objects\dial_sp_jc2</object>
+      <object>objects\dial_sp_Prez</object>
       <object>objects\dial_stat2</object>
       <object>objects\dial_stat3</object>
       <object>objects\obj_yellowlink</object>
@@ -260,6 +261,7 @@
       <room>rooms\Battle3</room>
       <room>rooms\Travelling_battle4</room>
       <room>rooms\Battle4</room>
+      <room>rooms\Prez</room>
     </rooms>
     <rooms name="State1">
       <room>rooms\Travelling_state1_E</room>
