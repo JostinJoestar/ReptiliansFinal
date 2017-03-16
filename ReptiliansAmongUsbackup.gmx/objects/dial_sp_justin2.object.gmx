@@ -26,16 +26,16 @@
           <argument>
             <kind>1</kind>
             <string>text1 = string(" Yoooo guys, welcome to my bat cave! ")
-text2 = string (" How far under the mountain are we right now? ")
+text2 = string (" How far under the mountain are#we right now? ")
 text3 = string (" 70 meters man! Safe, secure, totally hidden.#So, you got the flash drive? ")
-text4 = string (" Hey man, yea here it is. Keep it safe.#Oh man we got into one hell of a firefight getting here!#They were waiting for us on the highway. ")
+text4 = string (" Hey man, yea here it is. Keep it safe.#Oh man we got into one hell of a firefight#getting here! They were waitingfor us#on the highway. ")
 text5 = string (" Yea dudes, I was watching you with#one of my drones!#Wanted to see for myself if you all died. ")
-text6 = string ( " Comrade, may I ask how you have eye no more?  " )
-text7 = string (" Cool story, I went over to France a few years#back to help the underground#resistance fight the Reptilians.#Me and Remi fought together a few times. ")
-text8 = string ("  We were planning a kidnapping of a Reptilian#official when one of our guys pulled out a grenade#and dropped it on the#ground in front of us all.#Guess he was a Reptilian in disguise. ")
-text9 = string ("  Yea, well Justin reacted fast and pushed me#and my friend to the ground just before it went off,#and covered us with his body.#Shrapnel took out his eye. ")
+text6 = string ( " Comrade, may I ask how you have#eye no more?  " )
+text7 = string (" Cool story, I went over to France a few#years back to help the underground#resistance fight the#Reptilians. Me and Remi fought together#a few times. ")
+text8 = string ("  We were planning a kidnapping of a Reptilian#official when one of our guys pulled out#a grenade and dropped it on the#ground in front of us all.#Guess he was a Reptilian in disguise. ")
+text9 = string ("  Yea, well Justin reacted fast and pushed#me and my friend to the ground just before it#went off, and covered us with his body.#Shrapnel took out his eye. ")
 text10 = string (" Jesus. Remi, I had no idea you were that#involved in the resistance.#That’s like, inspirational man. ")
-text11 = string (" Don’t be too inspired. We were driven out of France in the end.#So many friends died for nothing…. ")
+text11 = string (" Don’t be too inspired. We were driven out of#France in the end.#So many friends died#for nothing…. ")
 text12 = string (" ...this time, it’ll be different. ")
 text13 = string (" ...I think need more vodka. ")
 
