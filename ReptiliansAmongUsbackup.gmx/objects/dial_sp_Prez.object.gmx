@@ -25,41 +25,36 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>text1 = string("Seems like they’re starting to take us more seriously. First it was just undercover Reptilians, last time they had reptile cops involved, and now full on CIA agents? ")
-text2 = string (" Do you think we’ve gotten in over our heads? ")
-text3 = string (" Nyet. Cops, agents, no matter. All are reptiles. Bullet solves all problems. ")
-text4 = string (" If you guys are done chatting, we’re here. *Knocks on the door* ")
-text5 = string (" Oh Ivanka, you’re here! ")
-text6 = string ( " Hello mother. These are the men I told you about. " )
-text7 = string (" So, you want to get into the whitehouse. And how exactly are you planning to reveal the president’s true identity? ")
-text8 = string ("  We hold him up at gunpoint and force him to show himself. ")
-text9 = string (" They won’t allow you to bring guns inside. ")
-text10 = string (" So we need you to have one of your people plant weapons in secret locations in the whitehouse. ")
-text11 = string (" That can be arranged, but it’s going to cost a lot. ")
-text12 = string (" You have the cash. ")
-text13 = string (" Dear, why don’t you come in for a bit? ")
-text14 = string (" We’re in a hurry. ")
-text15 = string (" Nonsense, we can wait! ")
-text16 = string (" *Sigh* alright ")
-text17 = string (" Why don’t the rest of you wait in the living room, and help yourself to anything, drinks included! ")
-text18 = string (" You are truly a good friend, comrade! ")
-text19 = string (" I now must pee again now. ")
-text20 = string (" Well maybe you shouldn’t have drank so much, big guy! ")
-text21 = string (" Nyet, nonsense. I go to washroom now. *goes to washroom* ")
-text22 = string (" Jeez, I’ve never seen someone who drinks so much. His english isn’t so good eh? I mean he’s been in the U.S. for a while now.  ")
-text23 = string (" Ahhh, finally a real toilet. Hmm, I think I can hear Michaela and Ivanka talking outside… ")
-text24 = string (" Well I’m sorry you feel that way, but there isn’t a textbook for being a parent you know! We’re all just stumbling through life the same. ")
-text25 = string (" I think wading through cash would be a more appropriate analogy for you. ")
-text26 = string ("  Is that what this is about? ")
-text27 = string (" No, of course not… ")
-text28 = string (" I want to make up for it all. Please, just give your old mother a chance. ")
-text29 = string (" ...wait - MOM, behind you!! ")
-text30 = string (" AGH!! ")
-text31 = string (" HELP! Reptilians!!! ")
-text32 = string ("  I’m coming!! ")
-text33 = string (" It’s… it’s too late…. They’re gone. My mother…. ")
-text34 = string (" I'm sorry... ")
-talk = 1
+            <string>text1 = string (" Linus, Dmitri, Remi and Ivanka are inside the#White House, with all lights and#security systems shut down. ")
+text2 = string ("  Equipped with night vision goggles, grappling hooks,#high tech silenced guns#and knock-out gas, they were able to make#their way to the president in a matter of#minutes, before security even#knew what was happening. ")
+text3 = string (" They now stand before the president of#the United States, guns at the ready. ")
+text4 = string (" Hello, monsieur president. I see your guards#are asleep from our knock-out gas,#but you remain awake. Why is that? ")
+text5 = string (" Haha, you caught me on a bad day, boys!#Most of my on-duty guards were humans today.#Simple creatures, you humans. Susceptible to so many things. ")
+text6 = string (" So what’s got you all so upset with me? " )
+text7 = string (" Um, do you mean besides being an alien invader infiltrating our government…? ")
+text8 = string (" Your kind….killed my whole village, because we found out the truth.#Killed my mama, my papa, my brothers, my friends.#That is why I am...how you say? Downset?  ")
+text9 = string (" UPset, actually… ")
+text10 = string (" Dude, bad timing. ")
+text11 = string (" Surely you understand that I didn’t personally do this,#just members of my race. ")
+text12 = string (" ENOUGH TALK! We are here to expose you! Ivanka! ")
+text13 = string (" You’re on camera, smile Mr. President! ")
+text14 = string (" Now show your REAL face to the camera, or we will have to kill you! ")
+text15 = string (" You guys are some slippery fish. I never would have known where you were,#if it wasn’t for Ivanka’s blog posts updating the#world on your next destination. ")
+text16 = string (" Hahaha, don’t look so shocked!#Come on, did you think I wouldn’t have#someone check your blog? ")
+text17 = string ("  IVANKAAAA!!!!! ")
+text18 = string (" Oops…. ")
+text19 = string (" Please, let’s not get unpleasant#with each other.#There’s no way you’re getting#out of here alive, so just- ")
+text20 = string (" At that very moment, there was a#loud bang, and the#President’s head exploded all#over the walls. ")
+text21 = string (" PROSCHAY, ALIEN SCUM! REVENGE IS MINE! ")
+text22 = string (" WHAT THE HELL MAN?? HE HADN’T SHOWN HIS LIZARD FACE YET! ")
+text23 = string (" Also, and I probably should have#mentioned this earlier,#but I am live streaming this. ")
+text24 = string (" God damn it Ivanka! ")
+text25 = string (" Look out, Reptilian agents! ")
+text26 = string ("  Ivanka turned the camera around just#in time to catch all the White House#security guards bearing down#on them, reptilian faces in full glorious view. ")
+text27 = string ("  ")
+text28 = string (" In the ensuing firefight, the camera#didn’t catch whether our heroes were#killed or escaped, and we may never know.#But what we do know, thanks to them,#is the truth.#Now, the whole world knows….reptilians#are#among us. ")
+text29 = string (" THE END ")
+
 
 out = string("")
 spd = 0
@@ -202,26 +197,7 @@ if (talk = 29)
 {
     out = string_copy (text29,1,spd)
 }
-if (talk = 30)
-{
-    out = string_copy (text30,1,spd)
-}
-if (talk = 31)
-{
-    out = string_copy (text31,1,spd)
-}
-if (talk = 32)
-{
-    out = string_copy (text32,1,spd)
-}
-if (talk = 33)
-{
-    out = string_copy (text33,1,spd)
-}
-if (talk = 34)
-{
-    out = string_copy (text34,1,spd)
-}
+
 
 spd += 0.5
 
