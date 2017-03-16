@@ -90,6 +90,7 @@
       <sprite>sprites\spr_justin_p</sprite>
       <sprite>sprites\spr_michaela</sprite>
       <sprite>sprites\spr_JC_P</sprite>
+      <sprite>sprites\spr_prez_p</sprite>
     </sprites>
     <sprites name="Buttons">
       <sprite>sprites\spr_menu</sprite>
@@ -128,6 +129,7 @@
     <background>background\bg_clouds</background>
     <background>background\bg_shop</background>
     <background>background\bg_hosp</background>
+    <background>background\background8</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -208,6 +210,12 @@
       <object>objects\obj_linus</object>
       <object>objects\obj_remi</object>
       <object>objects\obj_ivanka</object>
+      <objects name="Running">
+        <object>objects\obj_demi_run</object>
+        <object>objects\obj_linus_run</object>
+        <object>objects\obj_remi_run</object>
+        <object>objects\obj_ivanka_run</object>
+      </objects>
     </objects>
     <objects name="Icons">
       <object>objects\obj_fuel</object>
