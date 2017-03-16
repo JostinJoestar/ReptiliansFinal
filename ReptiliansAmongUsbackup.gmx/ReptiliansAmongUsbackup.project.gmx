@@ -134,6 +134,11 @@
     <background>background\bg_battlefloor</background>
     <background>background\bg_fuel</background>
     <background>background\bg_gameover</background>
+    <background>background\bg_intro</background>
+    <background>background\bg_intro_back</background>
+    <background>background\bg_intro_farback</background>
+    <background>background\bg_intro_background</background>
+    <background>background\bg_intro_foreground</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -257,11 +262,15 @@
       <object>objects\obj_sp_jclink</object>
       <object>objects\obj_sp_jclink2</object>
       <object>objects\obj_sp_Prezlink</object>
+      <objects name="Intro">
+        <object>objects\dial_intro</object>
+      </objects>
     </objects>
     <object>objects\obj_HUD</object>
     <object>objects\obj_HUDhalf</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Intro</room>
     <room>rooms\USMap</room>
     <room>rooms\Travelling2</room>
     <room>rooms\eBattle</room>
